@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+h1{
+    width: 100%;
+    margin: 0px;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    background:linear-gradient(45deg, #B3031B 0%, #F3F4A1) ;
+}
+canvas{
+    border:3px dashed slateblue; 
+}
